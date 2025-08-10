@@ -59,7 +59,7 @@ pip install matplotlib seaborn numpy```
 2.  Run the Python script:
     ```bash
     python simulation.py
-    ```
+```
 
 ## Expected Output
 
