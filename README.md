@@ -53,12 +53,12 @@ pip install matplotlib seaborn numpy
 ## How to Run
 
 1.  Clone this repository:
-    ```bash
+```bash
     git clone https://github.com/your-username/pass-framework-simulation.git
     cd pass-framework-simulation
-    ```
+```
 2.  Run the Python script:
-    ```bash
+```bash
     python simulation.py
 ```
 
