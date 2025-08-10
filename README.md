@@ -103,9 +103,6 @@ The following charts will be saved as PDF files in the `/charts` directory.
 
 *(Representative image of `kleinrock_power_comparison.pdf`)*
 
-
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
