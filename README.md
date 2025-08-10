@@ -47,7 +47,8 @@ The simulation script requires the following Python libraries:
 
 You can install them using pip:
 ```bash
-pip install matplotlib seaborn numpy```
+pip install matplotlib seaborn numpy
+```
 
 ## How to Run
 
