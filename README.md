@@ -83,25 +83,7 @@ Kleinrock's Power (γ/T)        | 0.10            | 0.10            | 6.25
 Proactive Data (MB)            | 0.00            | 0.00            | 100.00         
 ```
 
-## Generated Charts
 
-The following charts will be saved as PDF files in the `/charts` directory.
-
-### 1. User-Perceived Handover Latency
-
-*(Representative image of `handover_latency_comparison.pdf`)*
-
-### 2. Event Timeline Comparison
-
-*(Representative image of `event_timeline_comparison.pdf`)*
-
-### 3. Quality of Experience (QoE) Over Time
-
-*(Representative image of `qoe_over_time.pdf`)*
-
-### 4. System Efficiency (Kleinrock's Power)
-
-*(Representative image of `kleinrock_power_comparison.pdf`)*
 
 ## License
 
